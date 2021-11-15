@@ -7,16 +7,16 @@
             "email": "minyakovaas@mail.ru"
         }
     ],
+    "license": "MIT",
     "require": {
         "php": ">=7.4.0"
     },
     "require-dev": {
 
     },
-    "minimum-stability": "stable",
-	"autoload": {
+    "autoload": {
 		"psr-4": {
 			"minyakova\\EmailVariation\\": "src/"
 		}
-	}
+   }
 }
